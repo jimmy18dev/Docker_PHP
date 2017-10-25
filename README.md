@@ -5,7 +5,7 @@ NGINX + PHP5.6 + phpMyAdmin + MariaDB | PHP development environment generator bu
 
 Clone it!
 ```
-git clone  git@github.com:jimmy18dev/Docker_PHP_5.6.git
+git clone  git@github.com:jimmy18dev/Docker_PHP.git
 ```
 Go to dir...
 ```
