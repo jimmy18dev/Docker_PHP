@@ -1,5 +1,5 @@
 # FROM php:7.1.0-fpm-alpine
-FROM php:5.6-fpm-alpine
+FROM php:7.2.0-fpm-alpine
 
 MAINTAINER Puwadon Sricharoen <mrjimmy18@gmail.com>
 
